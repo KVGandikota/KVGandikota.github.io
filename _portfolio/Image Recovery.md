@@ -1,5 +1,5 @@
 ---
-title: "Image and Video Recovery"
+title: "Image Recovery"
 excerpt: "<img width='50%' src='/images/previews/face_reflection.png'>"
 collection: portfolio
 --- 
