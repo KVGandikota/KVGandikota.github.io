@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2022-icip-On-Adversarial-Robustness-of-Deep-Image-Deblurring
 date: 2022-10-16
 venue: 'IEEE International Conference on Image Processing (ICIP)'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/Robustness_Image_Deblurring.pdf'
-authors: 'Kanchana Vaishnavi Gandikota, <b>Paramanand Chandramouli</b>, Michael Moeller'
+paperurl: 'http://KVGandikota.github.io/files/pdfs/Robustness_Image_Deblurring.pdf'
+authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli, Michael Moeller'
 teaser: /previews/adv_deblur.png
 arxiv: 'https://arxiv.org/abs/2210.02502'
 categories: [Robustness]
