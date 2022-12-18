@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2019-iccvw-Blind-Single-Image-Reflection-Suppression-for-Face-Images-using-Deep-Generative-Priors
 date: 2019-10-27
 venue: 'IEEE/CVF International Conference on Computer Vision Workshops'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/face_reflection_removal_iccvw.pdf'
-authors: '<b>Paramanand Chandramouli</b>, Kanchana Vaishnavi Gandikota'
+paperurl: 'http://KVGandikota.github.io/files/pdfs/face_reflection_removal_iccvw.pdf'
+authors: 'Paramanand Chandramouli, <b>Kanchana Vaishnavi Gandikota</b>'
 teaser: /previews/face_reflection.png
 categories: [Image-Restoration]
 bibtex: true
