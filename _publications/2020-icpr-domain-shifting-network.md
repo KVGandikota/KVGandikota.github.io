@@ -1,5 +1,5 @@
 ---
-title: "Blind Single Image Reflection Suppression for Face Images using Deep Generative Priors"
+title: "A Simple Domain Shifting Network for Generating Low Quality Images"
 collection: publications
 permalink: /publication/2020-icpr-domain-shifting-network
 date: 2020-09-22
