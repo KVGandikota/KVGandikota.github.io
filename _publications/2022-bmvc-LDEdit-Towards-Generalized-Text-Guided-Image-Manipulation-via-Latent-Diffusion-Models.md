@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2022-bmvc-LDEdit-Towards-Generalized-Text-Guided-Image-Manipulation-via-Latent-Diffusion-Models
 date: 2022-11-21
 venue: 'British Machine Vision Conference (BMVC)'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/bmvc_ldedit.pdf'
-authors: '<b>Paramanand Chandramouli</b>, Kanchana Vaishnavi Gandikota'
+paperurl: 'http://KVGandikota.github.io/files/pdfs/bmvc_ldedit.pdf'
+authors: 'Paramanand Chandramouli, <b>Kanchana Vaishnavi Gandikota</b>'
 teaser: /previews/ldedit.png
 arxiv: 'https://arxiv.org/abs/2210.02249'
 categories: [Text-Image]
