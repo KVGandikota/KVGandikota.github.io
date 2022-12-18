@@ -9,7 +9,7 @@ author_profile: true
 
 ## How To Apply for Student Projects
 
-To apply write an email to paramanand.chandramouli@uni-siegen.de with the following details:
+To apply write an email to kanchana.gandikota@uni-siegen.de with the following details:
 - Your study program, semester, and your current Masters/Bachelors transcripts
 - Your experience in programming
 - Research topic you are interested in
@@ -26,11 +26,4 @@ I will then send you a small task related to deep learning, which you need to so
 ## Available Projects
 
 All projects related to deep learning need to be implemented in PyTorch.
-
-### Light Field Editing
-*Suitable for:* Master thesis
-
-*Most related paper:* [A Learned Compact and Editable Light Field Representation] (https://arxiv.org/abs/2103.11314)
-
-*Requirements:* Pytorch
 
