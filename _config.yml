@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paramanand Chandramouli"
+title                    : "Kanchana Vaishnavi Gandikota"
 title_separator          : "-"
-name                     : &name "Paramanand Chandramouli"
+name                     : &name "Kanchana Vaishnavi Gandikota"
 description              : &description "personal description"
 url                      : https://Paramanand-C.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Paramanand-C/Paramanand-C.github.io"
+repository               : "KVGandikota/KVGandikota.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paramanand Chandramouli"
+  name             : "Kanchana Vaishnavi Gandikota"
   avatar           : "profile.jpg"
-  bio              : "Postdoc, Computational Photography and Deep Learning"
+  bio              : "PhD Candidate, Computer Vision and Deep Learning"
   location         :
   employer         : "University of Siegen, Germany"
   pubmed           :
-  googlescholar    : "https://scholar.google.de/citations?user=WwcX44UAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.de/citations?user=QIjKrRMAAAAJ&hl=en"
   email            :
   researchgate     :  
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8944-3286"
+  orcid            : "https://orcid.org/0000-0003-0292-7523"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
