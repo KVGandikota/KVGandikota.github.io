@@ -8,7 +8,7 @@ authors: '<b>Kanchana Vaishnavi Gandikota</b>, Jonas Geiping, Zorah Lähner, Ada
 teaser: /previews/gandikota2021trainingorarchitecture.png
 paperurl: 'http://KCGandikota.github.io/files/pdfs/gandikota2022orbit.pdf'
 arxiv: 'https://arxiv.org/abs/2106.10044'
-categories: [robustness]
+categories: [Robustness]
 bibtex: true
 ---
 
