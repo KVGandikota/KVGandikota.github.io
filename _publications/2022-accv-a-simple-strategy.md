@@ -3,7 +3,7 @@ title: "A Simple Strategy to Provable Invariance via Orbit Mapping"
 collection: preprints
 permalink: /publication/2022-accv-a-simple-strategy
 date: 2022-10-04
-venue: 'Asian Conference on Computer Vision (ACCV) (Accepted)'
+venue: 'Asian Conference on Computer Vision (ACCV)'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Jonas Geiping, Zorah Lähner, Adam Czapliński, Michael Moeller'
 teaser: /previews/accv_orbitmap.png
 paperurl: 'http://KVGandikota.github.io/files/pdfs/0677.pdf'
