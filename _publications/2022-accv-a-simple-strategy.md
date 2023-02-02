@@ -29,7 +29,7 @@ bibtex: true
 
     @article{gandikota2021invariance,
         author 	= { {Kanchana Vaishnavi} Gandikota and Jonas Geiping and Zorah L\"ahner and Adam Czapli\'nski and Michael Moeller},
-        title 	= {A Simple Strategy to Make Neural Networks Provably Invariant},
+        title 	= {A Simple Strategy to Provable Invariance via Orbit Mapping},
         booktitle   = {Asian Conference on Computer Vision (ACCV)},
         year 	= 2022,
     }
