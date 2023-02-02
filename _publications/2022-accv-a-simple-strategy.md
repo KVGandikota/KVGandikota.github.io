@@ -6,7 +6,7 @@ date: 2022-10-04
 venue: 'Asian Conference on Computer Vision (ACCV) (Accepted)'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Jonas Geiping, Zorah Lähner, Adam Czapliński, Michael Moeller'
 teaser: /previews/gandikota2021trainingorarchitecture.png
-paperurl: 'http://KVGandikota.github.io/files/pdfs/gandikota2022orbit.pdf'
+paperurl: 'http://KVGandikota.github.io/files/pdfs/0677.pdf'
 arxiv: '[https://arxiv.org/abs/2209.11916]'
 categories: [Robustness]
 bibtex: true
