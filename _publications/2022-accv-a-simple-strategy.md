@@ -5,7 +5,7 @@ permalink: /publication/2022-accv-a-simple-strategy
 date: 2022-10-04
 venue: 'Asian Conference on Computer Vision (ACCV) (Accepted)'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Jonas Geiping, Zorah Lähner, Adam Czapliński, Michael Moeller'
-teaser: /previews/gandikota2021trainingorarchitecture.png
+teaser: images/previews/gandikota2021trainingorarchitecture.png
 paperurl: 'http://KCGandikota.github.io/files/pdfs/gandikota2022orbit.pdf'
 arxiv: '[https://arxiv.org/abs/2209.11916]'
 categories: [Robustness]
