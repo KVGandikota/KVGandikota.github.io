@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <a href="https://scholar.google.de/citations?user=WwcX44UAAAAJ">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.de/citations?user=QIjKrRMAAAAJ">my Google Scholar profile</a>.
 
 {% for post in site.publications reversed %}
   {% assign currentdate = post.date | date: "%Y" %}
