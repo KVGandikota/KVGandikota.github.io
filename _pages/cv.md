@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a densified pdf version of my CV [here (updated Feb 22)](https://KVGandikota.github.io/files/kvg_cv.pdf).
+You can download a densified pdf version of my CV [here (updated Feb 22)](https://KVGandikota.github.io/files/pdfs/kvg_cv.pdf).
 
 Education
 ======
