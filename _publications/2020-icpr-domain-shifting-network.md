@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2020-icpr-domain-shifting-network
 date: 2020-09-22
 venue: 'IEEE International Conference on Pattern Recognition'
-paperurl: 'http://KVGandikota.github.io/files/pdfs/A_Simple_Domain_Shifting_Network.pdf'
 authors: 'Guruprasad Hegde*, Avinash Nittur Ramesh*, <b>Kanchana Vaishnavi Gandikota</b>*,Roman Obermaisser, Michael Moeller'
 teaser: /previews/icpr2020_domain_shift.png
 categories: [Robustness]
