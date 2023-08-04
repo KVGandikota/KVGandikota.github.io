@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2020-arxiv-A-Generative-Model-for-Generic-Light-Field-Reconstruction
 date: 2022-04-01
 venue: 'IEEE Transactions on Pattern Analysis \& Machine Intelligence'
-paperurl: 'http://KVGandikota.github.io/files/pdfs/Generative_Model_Light_Field.pdf'
 authors: 'Paramanand Chandramouli*, <b>Kanchana Vaishnavi Gandikota</b>*, Andreas Goerlitz, Andreas Kolb, Michael Moeller'
 teaser: /previews/lf_cvae.png
 arxiv: 'https://arxiv.org/abs/2005.06508'
