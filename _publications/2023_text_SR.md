@@ -17,7 +17,7 @@ bibtex: true
 
 ## Abstract
 
->  In this work, we propose for the first time a zeroshot approach for flexible open domain extreme super-resolution of images which allows users to interactively explore plausible solutions by using language prompts. Our approach exploits a recent diffusion based text-to-image (T2I) generative model. We modify the generative process of the T2I diffusion model to analytically enforce data consistency of the solution and explore diverse contents of null-space using text guidance. Our approach results in diverse solutions which are simultaneously consistent with input text and the low resolution images.
+>  In this work, we propose for the first time a zero-shot approach for flexible open domain extreme super-resolution of images which allows users to interactively explore plausible solutions by using language prompts. Our approach exploits a recent diffusion based text-to-image (T2I) generative model. We modify the generative process of the T2I diffusion model to analytically enforce data consistency of the solution and explore diverse contents of null-space using text guidance. Our approach results in diverse solutions which are simultaneously consistent with input text and the low resolution images.
 
 ## Resources
 
