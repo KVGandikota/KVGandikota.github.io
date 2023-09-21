@@ -13,7 +13,7 @@ bibtex: true
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/aihci.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/iccvw23.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
