@@ -7,7 +7,7 @@ venue: 'ICML 2023 Workshop on Artificial Intelligence & Human-Computer Interacti
 paperurl: 'http://KVGandikota.github.io/files/pdfs/aihci_23.pdf'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli'
 teaser: /previews/aihci.png
-categories: [Image Recovery],[Vision & Language]
+categories: [Image Recovery][Vision & Language]
 bibtex: true
 ---
 
