@@ -3,7 +3,7 @@ title: "Exploring Open Domain Image Super-Resolution through Text"
 collection: publications
 permalink: /publication/test
 date: 2023-07-29
-venue: 'Medical Imaging with Deep Learning (MIDL)'
+venue: 'ICML 2023 Workshop on Artificial Intelligence & Human-Computer Interaction'
 paperurl: 'http://KVGandikota.github.io/files/pdfs/midl_23.pdf'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli, Hannah Droege, Michael Moeller '
 teaser: /previews/166_Gandikota.png
