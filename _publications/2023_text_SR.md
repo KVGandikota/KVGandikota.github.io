@@ -2,7 +2,7 @@
 title: "Exploring Open Domain Image Super-Resolution through Text"
 collection: publications
 permalink: /publication/2023_text_SR
-date: 2023-29-07
+date: 2023-07-29
 venue: 'ICML 2023 Workshop on Artificial Intelligence & Human-Computer Interaction'
 paperurl: 'http://KVGandikota.github.io/files/pdfs/aihci_23.pdf'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli'
