@@ -1,8 +1,8 @@
 ---
-title: "Evaluating Adversarial Robustness of Low dose CT Recovery"
+title: "Exploring Open Domain Image Super-Resolution through Text"
 collection: publications
 permalink: /publication/test
-date: 2023-04-07
+date: 2023-07-29
 venue: 'Medical Imaging with Deep Learning (MIDL)'
 paperurl: 'http://KVGandikota.github.io/files/pdfs/midl_23.pdf'
 authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli, Hannah Droege, Michael Moeller '
