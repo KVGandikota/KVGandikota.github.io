@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/test
 date: 2023-07-29
 venue: 'ICML 2023 Workshop on Artificial Intelligence & Human-Computer Interaction'
-paperurl: 'http://KVGandikota.github.io/files/pdfs/midl_23.pdf'
-authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli, Hannah Droege, Michael Moeller '
-teaser: /previews/166_Gandikota.png
+paperurl: 'http://KVGandikota.github.io/files/pdfs/aihci_23.pdf'
+authors: '<b>Kanchana Vaishnavi Gandikota</b>, Paramanand Chandramouli'
+teaser: /previews/aihci.png
 categories: [Robustness]
 bibtex: true
 ---
