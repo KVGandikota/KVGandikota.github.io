@@ -1,7 +1,7 @@
 ---
-title: 'Exploring Open Domain Image Super-Resolution through Text'
+title: 'On the unreasonable vulnerability of transformers for image restoration--and an easy fix'
 collection: publications
-permalink: /publication/2023-text-SR
+permalink: /publication/2023_iccvw
 date: 2023-07-29
 venue: 'ICCV 2023 Workshop on Adversarial Robustness In the Real World'
 paperurl: 'http://KVGandikota.github.io/files/pdfs/iccvw2023.pdf'
