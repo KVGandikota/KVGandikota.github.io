@@ -1,5 +1,5 @@
 ---
-title: "Exploring Open Domain Image Super-Resolution through Text"
+title: 'Exploring Open Domain Image Super-Resolution through Text'
 collection: publications
 permalink: /publication/2023_text_SR
 date: 2023-07-29
