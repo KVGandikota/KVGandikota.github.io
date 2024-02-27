@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at the [Computer Vision Group](https://www.vsa.informatik.uni-siegen.de/) University of Siegen. Prior to this, I did my PhD at the [Computer Vision Group](https://www.vsa.informatik.uni-siegen.de/){:target="\_blank"} headed by [Prof. Michael Moeller](https://sites.google.com/site/michaelmoellermath/home) at the University of Siegen since April 2019.   I did my Masters in Electrical Engineering at Indian Institute of Technology Madras, India specializing in Wireless Communications. Prior to this I did my bachelors degree in Electronics and Communications Engineering at Sri Venkateswara University College of Engineering, Tirupati, India.
+I am a post-doctoral researcher at the [Computer Vision Group](https://www.vsa.informatik.uni-siegen.de/) University of Siegen. Prior to this, I did my PhD at the [Computer Vision Group](https://www.vsa.informatik.uni-siegen.de/){:target="\_blank"} headed by [Prof. Michael Moeller](https://sites.google.com/site/michaelmoellermath/home) at the University of Siegen (April 2019-January 2024).   I did my Masters in Electrical Engineering at Indian Institute of Technology Madras, India specializing in Wireless Communications. Prior to this I did my bachelors degree in Electronics and Communications Engineering at Sri Venkateswara University College of Engineering, Tirupati, India.
 
 
 News
