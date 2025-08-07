@@ -13,14 +13,19 @@ You can download a densified pdf version of my CV [here (updated Feb 22)](https:
 
 Education
 ======
+* **PhD**  inComputer Science
+  *  University of Siegen, 2024
 * **M.S**  in Electrical Engineering
   *  Indian Institute of Technology Madras, 2014
 * **B.Tech.** in Electronics and Telecommunications Engineering
-  * Sri Venkateshwara University College of Engineering 2011
+  * Sri Venkateshwara University College of Engineering, 2011
 
 Academic Experience
 ======
-* Since 2019: **PhD Candidate**
+* Since February 2024: **Post-doctoral Researcher**
+  * Computer Vision Group, University of Siegen
+  * Supervisor: Prof. Dr. Michael Moeller
+* April 2019 - January 2024: **PhD Candidate**
   * Computer Vision Group, University of Siegen
   * Supervisor: Prof. Dr. Michael Moeller
 * 2011-2014: **Student Researcher**
@@ -40,13 +45,18 @@ Reviewing
 
 **Journals**
 
-* IEEE Sensors Journal 2022
+* IEEE Sensors Journal (2022,2024), IEEE Transactions on Image Processing (2025)
 
 **Conferences**
 
 * ICCV 2023
 * CVPR 2023
 * ACCV 2022
+* CVPR 2024
+* ECCV 2024
+* GCPR 2024
+* ACCV 2024
+* AAAI 2026
 
 Teaching
 ======
