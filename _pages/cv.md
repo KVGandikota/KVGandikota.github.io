@@ -13,9 +13,9 @@ You can download a densified pdf version of my CV [here (updated Feb 22)](https:
 
 Education
 ======
-* **PhD**  inComputer Science
+* **PhD** in Computer Science
   *  University of Siegen, 2024
-* **M.S**  in Electrical Engineering
+* **M.S** in Electrical Engineering
   *  Indian Institute of Technology Madras, 2014
 * **B.Tech.** in Electronics and Telecommunications Engineering
   * Sri Venkateshwara University College of Engineering, 2011
